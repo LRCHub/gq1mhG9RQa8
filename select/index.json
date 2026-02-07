@@ -1,0 +1,80 @@
+{
+  "version": 1,
+  "base_track": "無限 LOOP -IZORA-",
+  "base_artist": "BUCK-TICK",
+  "createdAt": "2026-02-07T12:33:08.026255Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "無限",
+      "artist": "F.I.R.",
+      "has_synced": false,
+      "path": "select/01_無限_F.I.R..txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "無限",
+      "artist": "陳慧琳",
+      "has_synced": false,
+      "path": "select/02_無限_陳慧琳.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "無限",
+      "artist": "Kelly Chen",
+      "has_synced": false,
+      "path": "select/03_無限_Kelly_Chen.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "無限",
+      "artist": "鄭秀文",
+      "has_synced": false,
+      "path": "select/04_無限_鄭秀文.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "無限",
+      "artist": "F.I.R.飛兒樂團",
+      "has_synced": true,
+      "path": "select/05_無限_F.I.R.飛兒樂團.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "無限 LOOP -IZORA-",
+      "artist": "BUCK-TICK",
+      "has_synced": true,
+      "path": "select/06_無限_LOOP_-IZORA-_BUCK-TICK.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Wake up Angel ~ねがいましては∞(無限)なり~",
+      "artist": "Funta",
+      "has_synced": true,
+      "path": "select/07_Wake_up_Angel_~ねがいましては∞(無限)なり~_Funta.lrc"
+    },
+    {
+      "id": "lrclib_8",
+      "source": "lrclib",
+      "title": "トラック4：無限♾️生クリーム追跡ゲームご奉仕",
+      "artist": "たいへんなへんたい",
+      "has_synced": true,
+      "path": "select/08_トラック4_無限♾️生クリーム追跡ゲームご奉仕_たいへんなへんたい.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "無限 LOOP",
+      "artist": "BUCK-TICK",
+      "has_synced": false,
+      "path": "select/pl_01_無限_LOOP_BUCK-TICK.txt"
+    }
+  ]
+}
